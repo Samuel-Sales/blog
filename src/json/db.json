@@ -1,38 +1,38 @@
 [
-    {
-        "id": 1,
-        "titulo": "CS:GO - Clockwork 4 by NikkyyHD",
-        "capa": "/assets/capaTag.jpg",
-        "link": "https://www.youtube.com/watch?v=PjoXLq7fqXY&t=217s&ab_channel=Sparkles"
-    },
-    {
-        "id": 2,
-        "titulo": "CS:GO - When PROS Bhop",
-        "capa": "/assets/capaTag.jpg",
-        "link": "https://www.youtube.com/watch?v=A29mX-euKso&ab_channel=VirreCSGO"
-    },
-    {
-        "id": 3,
-        "titulo": "CS:GO - When PROS Bhop 2",
-        "capa": "/assets/capaTag.jpg",
-        "link": "https://www.youtube.com/watch?v=5YuOcC7eoSY&t=106s&ab_channel=VirreCSGO"
-    },
-    {
-        "id": 4,
-        "titulo": "How S1mple Really Plays CS:GO 3",
-        "capa": "/assets/capaTag.jpg",
-        "link": "https://www.youtube.com/watch?v=1irt4SJlX10&ab_channel=SuperstituM"
-    },
-    {
-        "id": 5,
-        "titulo": "How Mousesports Really Plays CS:GO",
-        "capa": "/assets/capaTag.jpg",
-        "link": "https://www.youtube.com/watch?v=jO1IuXIh8mU&ab_channel=SuperstituM"
-    },
-    {
-        "id": 6,
-        "titulo": "How You Really Play CS:GO",
-        "capa": "/assets/capaTag.jpg",
-        "link": "https://www.youtube.com/watch?v=2ufdAEeZYnk&ab_channel=SuperstituM"
-    }
-]
+        {
+            "id": 1,
+            "titulo": "CS:GO - Clockwork 4 by NikkyyHD",
+            "capa": "/assets/capaTag.jpg",
+            "link": "https://www.youtube.com/embed/PjoXLq7fqXY?si=l9TMCZHPgK6xzad1"
+        },
+        {
+            "id": 2,
+            "titulo": "CS:GO - When PROS Bhop",
+            "capa": "/assets/capaTag.jpg",
+            "link": "https://www.youtube.com/embed/A29mX-euKso?si=QzaCmnIykR-V8AlI"
+        },
+        {
+            "id": 3,
+            "titulo": "CS:GO - When PROS Bhop 2",
+            "capa": "/assets/capaTag.jpg",
+            "link": "https://www.youtube.com/embed/5YuOcC7eoSY?si=cFSlMUZBEzLnnZJx"
+        },
+        {
+            "id": 4,
+            "titulo": "How S1mple Really Plays CS:GO 3",
+            "capa": "/assets/capaTag.jpg",
+            "link": "https://www.youtube.com/embed/1irt4SJlX10?si=Xut73pDxwerMMtDn"
+        },
+        {
+            "id": 5,
+            "titulo": "How Mousesports Really Plays CS:GO",
+            "capa": "/assets/capaTag.jpg",
+            "link": "https://www.youtube.com/embed/jO1IuXIh8mU?si=_bkW72nfT72_T6Ux"
+        },
+        {
+            "id": 6,
+            "titulo": "How You Really Play CS:GO",
+            "capa": "/assets/capaTag.jpg",
+            "link": "https://www.youtube.com/embed/2ufdAEeZYnk?si=WusJVd8A0sgf9MDN"
+        }
+    ] 
